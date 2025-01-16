@@ -34,7 +34,6 @@ async def start_command(message: Message, ADMIN_ID: int):
         )
 
 # Хэндлер для нажатия на кнопку "Получить строку"
-# Хэндлер для нажатия на кнопку "Получить строку"
 async def send_string(callback_query):
     user_id = callback_query.from_user.id
 
@@ -50,14 +49,8 @@ async def send_string(callback_query):
     if string_data:
         string_id, string = string_data
 
-        # Экапируем специальные символы в строке
-        escaped_string = escape_markdown(string)
-
-        # Отправляем строку пользователю в монospace формате
-        await callback_query.message.answer(
-            f"Ваша строка:\n`{escaped_string}`",
-            parse_mode='MarkdownV2'
-        )
+        # Отправляем строку пользователю
+        await callback_query.message.answer(f"Ваша строка: {string}")
 
         # Увеличиваем счетчик использования строки
         await increment_usage_count(string_id)
@@ -70,11 +63,6 @@ async def send_string(callback_query):
         await callback_query.message.answer("В базе данных пока нет строк. Обратитесь к администратору.")
     
     await callback_query.answer()
-
-def escape_markdown(text):
-    for c in ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
-        text = text.replace(c, '\\' + c)
-    return text
 
 # Кнопка "Загрузить строки" для администратора
 async def load_strings(message: Message, ADMIN_ID: int, dp: Dispatcher):

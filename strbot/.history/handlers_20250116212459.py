@@ -1,6 +1,7 @@
 from aiogram import Dispatcher, Bot, F
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 from database import add_strings, get_unused_string, increment_usage_count
+from aiogram.utils.markdown import escape_markdown
 
 # Множество для хранения пользователей, которые уже взяли строку
 received_users = set()
@@ -34,7 +35,6 @@ async def start_command(message: Message, ADMIN_ID: int):
         )
 
 # Хэндлер для нажатия на кнопку "Получить строку"
-# Хэндлер для нажатия на кнопку "Получить строку"
 async def send_string(callback_query):
     user_id = callback_query.from_user.id
 
@@ -51,7 +51,7 @@ async def send_string(callback_query):
         string_id, string = string_data
 
         # Экапируем специальные символы в строке
-        escaped_string = escape_markdown(string)
+        escaped_string = escape_markdown(string, version=2)
 
         # Отправляем строку пользователю в монospace формате
         await callback_query.message.answer(
@@ -70,11 +70,6 @@ async def send_string(callback_query):
         await callback_query.message.answer("В базе данных пока нет строк. Обратитесь к администратору.")
     
     await callback_query.answer()
-
-def escape_markdown(text):
-    for c in ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
-        text = text.replace(c, '\\' + c)
-    return text
 
 # Кнопка "Загрузить строки" для администратора
 async def load_strings(message: Message, ADMIN_ID: int, dp: Dispatcher):

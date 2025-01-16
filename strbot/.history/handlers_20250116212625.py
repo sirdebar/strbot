@@ -1,6 +1,7 @@
 from aiogram import Dispatcher, Bot, F
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 from database import add_strings, get_unused_string, increment_usage_count
+from aiogram.utils.markdown import escape_markdown
 
 # Множество для хранения пользователей, которые уже взяли строку
 received_users = set()

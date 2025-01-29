@@ -1,0 +1,24 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+type employee struct {
+	Name string
+	Id int
+}
+e := employee{"John", 1}
+fmt.Println(e)
+
+copyStruct := &e
+copyStruct.Name = "Jane"
+fmt.Println (copyStruct)
+
+}
+
+
+
+

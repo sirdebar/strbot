@@ -1,0 +1,36 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Специфические файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Папки сборки и дистрибутивы
+build/
+dist/
+# кроме нашего основного spec-файла
+!WhatsAppSessionManager.spec
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Файлы IDE и редакторов
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+
+# Временные распакованные архивы
+extracted_*/

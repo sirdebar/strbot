@@ -1,0 +1,25 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+type employee struct {
+	Name string
+	Id int
+}
+
+e := employee{"John", 1}
+
+fmt.Printf("Employee Name: %v, Id: %v", e.Name, e.Name)
+
+e
+
+
+}
+
+
+
+

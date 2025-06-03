@@ -1,0 +1,36 @@
+package main
+
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+
+func main() {
+	type Info struct {
+		Password string
+		PublicKey int
+		SecretKey int
+	}
+
+	users := make(map[string]Info)
+
+	users["Bobby"] = Info{Password: "Qwerty123", PublicKey: 123, SecretKey: 8812346381}
+
+
+
+	fmt.Println()
+}
+
+func authorize(u users, i Info) {
+	var name string
+	var password 
+	fmt.Println("Hello! To authorize enter name:")
+	fmt.Scan(&name)
+	value, exists := i[name]
+	if exists {
+		fmt.Println("Great, now enter your password:")
+
+	}
+}
+

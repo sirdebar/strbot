@@ -1,0 +1,28 @@
+package main
+
+import (
+	"fmt"
+	"strings"
+)
+
+type Students struct {
+	Name string
+	Grades []int
+}
+
+func main() {
+	students := []Students {
+		{Name: "John", Grades: []int{3,4,2,5,5,5}},
+		{Name: "Marry", Grades: []int{3,4,2,5,5,5}},
+		{Name: "John", Grades: []int{3,4,2,5,5,5}},
+		{Name: "John", Grades: []int{3,4,2,5,5,5}},
+	}
+	find(Students)
+}
+
+func find() {
+
+}
+
+
+

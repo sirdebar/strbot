@@ -1,0 +1,524 @@
+2025-06-17 14:22:09,751 - BusinessBot - INFO - ==================================================
+2025-06-17 14:22:09,752 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-17 14:22:09,752 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-17 14:22:09,752 - BusinessBot - INFO - [CONFIG] Админ ID: 1083294848
+2025-06-17 14:22:09,752 - BusinessBot - INFO - [CONFIG] Лог-канал ID: 2823857809
+2025-06-17 14:22:09,752 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-17 14:22:09,752 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-17 14:22:09,974 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-17 14:22:09,974 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-17 14:22:09,975 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-17 14:22:09,975 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-17 14:22:10,047 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-17 14:22:10,048 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-17 14:22:10,048 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-17 14:22:10,048 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:22:10,048 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:23:49,852 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:23:50,104 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:23:50,108 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-17 14:23:56,163 - BusinessBot - INFO - ==================================================
+2025-06-17 14:23:56,163 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-17 14:23:56,163 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-17 14:23:56,164 - BusinessBot - INFO - [CONFIG] Админ ID: 1083294848
+2025-06-17 14:23:56,164 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-17 14:23:56,164 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-17 14:23:56,164 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-17 14:23:56,400 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-17 14:23:56,400 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-17 14:23:56,400 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-17 14:23:56,400 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-17 14:23:56,476 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-17 14:23:56,477 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-17 14:23:56,477 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-17 14:23:56,477 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:23:56,477 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:24:37,159 - BusinessBot - INFO - Получено обновление типа: business_connection
+2025-06-17 14:24:37,159 - BusinessBot - INFO - Обрабатываю бизнес-подключение через хендлер: ruDaMmGBkEoXDgAAdS6J0Mx6hYw
+2025-06-17 14:24:37,160 - BusinessBot - INFO - Пропускаем обработку бизнес-подключения от админа: 1083294848
+2025-06-17 14:24:37,160 - aiogram.event - INFO - Update id=702612298 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:24:52,663 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:24:52,663 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: @getidsbot...
+2025-06-17 14:24:52,664 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:24:52,664 - aiogram.event - INFO - Update id=702612299 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:25:04,124 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:25:04,376 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:25:04,378 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-17 14:25:11,718 - BusinessBot - INFO - ==================================================
+2025-06-17 14:25:11,718 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-17 14:25:11,718 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-17 14:25:11,718 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-17 14:25:11,719 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-17 14:25:11,719 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-17 14:25:11,719 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-17 14:25:11,956 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-17 14:25:11,957 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-17 14:25:11,957 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-17 14:25:11,957 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-17 14:25:12,034 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-17 14:25:12,035 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-17 14:25:12,035 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-17 14:25:12,035 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:25:12,036 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:25:43,612 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:25:43,864 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:25:43,865 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-17 14:25:46,940 - BusinessBot - INFO - ==================================================
+2025-06-17 14:25:46,941 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-17 14:25:46,941 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-17 14:25:46,941 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-17 14:25:46,941 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-17 14:25:46,941 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-17 14:25:46,941 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-17 14:25:47,170 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-17 14:25:47,171 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-17 14:25:47,171 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-17 14:25:47,171 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-17 14:25:47,246 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-17 14:25:47,246 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-17 14:25:47,247 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-17 14:25:47,247 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:25:47,247 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:25:53,803 - BusinessBot - INFO - Получено обновление типа: business_connection
+2025-06-17 14:25:53,804 - BusinessBot - INFO - Обрабатываю бизнес-подключение через хендлер: ruDaMmGBkEoXDgAAdS6J0Mx6hYw
+2025-06-17 14:25:53,804 - BusinessBot - INFO - Бизнес-подключение ruDaMmGBkEoXDgAAdS6J0Mx6hYw неактивно
+2025-06-17 14:25:54,088 - aiogram.event - INFO - Update id=702612302 is handled. Duration 296 ms by bot id=7576712685
+2025-06-17 14:26:03,606 - BusinessBot - INFO - Получено обновление типа: business_connection
+2025-06-17 14:26:03,607 - BusinessBot - INFO - Обрабатываю бизнес-подключение через хендлер: XzUlgkVDiEoFEwAAgzbSPLQE-Z8
+2025-06-17 14:26:03,607 - BusinessBot - INFO - Бизнес-подключение: ID=XzUlgkVDiEoFEwAAgzbSPLQE-Z8, пользователь=1083294848, чат=1083294848
+2025-06-17 14:26:03,738 - BusinessBot - ERROR - Ошибка при получении подарков: Telegram server says - Bad Request: BOT_ACCESS_FORBIDDEN
+2025-06-17 14:26:03,876 - BusinessBot - ERROR - Ошибка при получении баланса звезд: Telegram server says - Bad Request: BOT_ACCESS_FORBIDDEN
+2025-06-17 14:26:04,074 - BusinessBot - INFO - [CONNECT] doraemon (1083294848) подключен — ключ vTt3wibTtcpevnZRzCsi
+2025-06-17 14:26:04,237 - BusinessBot - INFO - Сообщение о подключении отправлено в чат 1083294848
+2025-06-17 14:26:04,238 - aiogram.event - INFO - Update id=702612303 is handled. Duration 625 ms by bot id=7576712685
+2025-06-17 14:26:18,458 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:18,458 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: ну короче...
+2025-06-17 14:26:18,459 - aiogram.event - INFO - Update id=702612304 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:22,988 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:22,989 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: подключаешь сюда...
+2025-06-17 14:26:22,989 - aiogram.event - INFO - Update id=702612305 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:24,483 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:24,484 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: с премкой...
+2025-06-17 14:26:24,484 - aiogram.event - INFO - Update id=702612306 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:39,654 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:39,654 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: ...
+2025-06-17 14:26:39,654 - aiogram.event - INFO - Update id=702612307 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:41,222 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:41,223 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: и во вселенную...
+2025-06-17 14:26:41,223 - aiogram.event - INFO - Update id=702612308 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:43,266 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:43,266 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: приходит лог...
+2025-06-17 14:26:43,266 - aiogram.event - INFO - Update id=702612309 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:52,860 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:52,860 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: звезды он кнш пока не умеет смотреть...
+2025-06-17 14:26:52,861 - aiogram.event - INFO - Update id=702612310 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:26:55,545 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:26:55,545 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: мне лень стало делать...
+2025-06-17 14:26:55,546 - aiogram.event - INFO - Update id=702612311 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:27:04,451 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:27:04,452 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: но смотрит нфт подарки которые можно трансфернуть...
+2025-06-17 14:27:04,453 - aiogram.event - INFO - Update id=702612312 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:27:35,898 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:27:36,428 - aiogram.event - INFO - Update id=702612313 is handled. Duration 530 ms by bot id=7576712685
+2025-06-17 14:27:54,354 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:27:54,617 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:27:54,618 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-17 14:27:57,327 - BusinessBot - INFO - ==================================================
+2025-06-17 14:27:57,328 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-17 14:27:57,328 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-17 14:27:57,328 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-17 14:27:57,328 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-17 14:27:57,328 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-17 14:27:57,328 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-17 14:27:57,559 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-17 14:27:57,559 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-17 14:27:57,559 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-17 14:27:57,560 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-17 14:27:57,632 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-17 14:27:57,632 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-17 14:27:57,634 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-17 14:27:57,634 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:27:57,634 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:28:06,186 - BusinessBot - INFO - Получено обновление типа: business_connection
+2025-06-17 14:28:06,186 - BusinessBot - INFO - Обрабатываю бизнес-подключение через хендлер: XzUlgkVDiEoFEwAAgzbSPLQE-Z8
+2025-06-17 14:28:06,187 - BusinessBot - INFO - Бизнес-подключение: ID=XzUlgkVDiEoFEwAAgzbSPLQE-Z8, пользователь=1083294848, чат=1083294848
+2025-06-17 14:28:06,706 - BusinessBot - INFO - [CONNECT] doraemon (1083294848) подключен — ключ Iz5HJNtIyf4iNo7ZDbvS
+2025-06-17 14:28:06,800 - BusinessBot - INFO - Сообщение о подключении отправлено в чат 1083294848
+2025-06-17 14:28:06,800 - aiogram.event - INFO - Update id=702612314 is handled. Duration 609 ms by bot id=7576712685
+2025-06-17 14:28:16,174 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:16,175 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: иf yt...
+2025-06-17 14:28:16,175 - aiogram.event - INFO - Update id=702612315 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:18,180 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:18,181 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: а не все...
+2025-06-17 14:28:18,181 - aiogram.event - INFO - Update id=702612316 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:19,169 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:19,170 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: норм...
+2025-06-17 14:28:19,170 - aiogram.event - INFO - Update id=702612317 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:21,262 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:21,262 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: он и звезды видит...
+2025-06-17 14:28:21,262 - aiogram.event - INFO - Update id=702612318 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:22,339 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:22,339 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: и подарки...
+2025-06-17 14:28:22,339 - aiogram.event - INFO - Update id=702612319 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:22,693 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:22,694 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: А если звезд на передачу нет, то что пишет...
+2025-06-17 14:28:22,694 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:28:22,695 - aiogram.event - INFO - Update id=702612320 is handled. Duration 16 ms by bot id=7576712685
+2025-06-17 14:28:29,200 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:29,200 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: Аа...
+2025-06-17 14:28:29,202 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:28:29,202 - aiogram.event - INFO - Update id=702612321 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:32,650 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:33,095 - aiogram.event - INFO - Update id=702612322 is handled. Duration 436 ms by bot id=7576712685
+2025-06-17 14:28:38,618 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:38,619 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: видишь поле ключ...
+2025-06-17 14:28:38,619 - aiogram.event - INFO - Update id=702612323 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:44,437 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:44,438 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: если отправить ключ боту...
+2025-06-17 14:28:44,438 - aiogram.event - INFO - Update id=702612324 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:49,464 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:49,464 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: или просто где то его написать...
+2025-06-17 14:28:49,464 - aiogram.event - INFO - Update id=702612325 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:54,813 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:54,813 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: бот трансфернет все подарки...
+2025-06-17 14:28:54,814 - aiogram.event - INFO - Update id=702612326 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:28:59,445 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:28:59,452 - aiogram.event - INFO - Update id=702612327 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:00,800 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:00,800 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: А кому?...
+2025-06-17 14:29:00,800 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:29:00,801 - aiogram.event - INFO - Update id=702612328 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:03,943 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:03,943 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: админу...
+2025-06-17 14:29:03,943 - aiogram.event - INFO - Update id=702612329 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:11,402 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:11,403 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: который прописан в коде...
+2025-06-17 14:29:11,403 - aiogram.event - INFO - Update id=702612330 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:21,610 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:21,612 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: ошибка кд не истекло...
+2025-06-17 14:29:21,612 - aiogram.event - INFO - Update id=702612331 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:29,692 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:29,692 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: Такую ошибка кстати телеграмм пишет...
+2025-06-17 14:29:29,692 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:29:29,692 - aiogram.event - INFO - Update id=702612332 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:43,164 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:43,164 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: подключи ботика...
+2025-06-17 14:29:43,165 - aiogram.event - INFO - Update id=702612333 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:45,043 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:45,044 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: давай затестим...
+2025-06-17 14:29:45,044 - aiogram.event - INFO - Update id=702612334 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:46,274 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:46,274 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: хихи...
+2025-06-17 14:29:46,274 - aiogram.event - INFO - Update id=702612335 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:57,454 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:57,455 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: ...
+2025-06-17 14:29:57,455 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:29:57,455 - aiogram.event - INFO - Update id=702612336 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:29:58,170 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:29:58,172 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: бот все ошибки знает...
+2025-06-17 14:29:58,172 - aiogram.event - INFO - Update id=702612337 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:30:00,750 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:30:00,750 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: Это ты...
+2025-06-17 14:30:00,750 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-17 14:30:00,751 - aiogram.event - INFO - Update id=702612338 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:30:04,637 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:30:04,637 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: ну нииииии...
+2025-06-17 14:30:04,638 - aiogram.event - INFO - Update id=702612339 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:30:05,970 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-17 14:30:05,970 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: эт не я...
+2025-06-17 14:30:05,972 - aiogram.event - INFO - Update id=702612340 is handled. Duration 0 ms by bot id=7576712685
+2025-06-17 14:30:07,337 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:30:07,597 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-17 14:30:07,600 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:42:18,236 - BusinessBot - INFO - ==================================================
+2025-06-18 15:42:18,236 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:42:18,236 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:42:18,236 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:42:18,237 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:42:18,237 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:42:18,237 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:42:18,486 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:42:18,486 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:42:18,487 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:42:18,487 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:42:18,565 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:42:18,565 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:42:18,566 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:42:18,567 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:42:18,567 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:42:22,791 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:42:22,791 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111297995)
+2025-06-18 15:42:28,398 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:42:28,399 - aiogram.dispatcher - WARNING - Sleep for 1.262439 seconds and try again... (tryings = 1, bot id = 8111297995)
+2025-06-18 15:42:34,501 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:42:34,502 - aiogram.dispatcher - WARNING - Sleep for 1.623011 seconds and try again... (tryings = 2, bot id = 8111297995)
+2025-06-18 15:42:41,510 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:42:41,510 - aiogram.dispatcher - WARNING - Sleep for 2.012261 seconds and try again... (tryings = 3, bot id = 8111297995)
+2025-06-18 15:42:46,726 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:42:46,726 - aiogram.dispatcher - WARNING - Sleep for 2.699402 seconds and try again... (tryings = 4, bot id = 8111297995)
+2025-06-18 15:42:56,385 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:42:56,385 - aiogram.dispatcher - WARNING - Sleep for 3.327037 seconds and try again... (tryings = 5, bot id = 8111297995)
+2025-06-18 15:43:04,781 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:43:04,781 - aiogram.dispatcher - WARNING - Sleep for 4.354034 seconds and try again... (tryings = 6, bot id = 8111297995)
+2025-06-18 15:43:14,332 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:43:14,332 - aiogram.dispatcher - WARNING - Sleep for 4.992608 seconds and try again... (tryings = 7, bot id = 8111297995)
+2025-06-18 15:43:24,554 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:43:24,555 - aiogram.dispatcher - WARNING - Sleep for 5.010484 seconds and try again... (tryings = 8, bot id = 8111297995)
+2025-06-18 15:43:34,701 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:43:34,701 - aiogram.dispatcher - WARNING - Sleep for 4.851568 seconds and try again... (tryings = 9, bot id = 8111297995)
+2025-06-18 15:43:44,893 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:43:44,893 - aiogram.dispatcher - WARNING - Sleep for 5.081035 seconds and try again... (tryings = 10, bot id = 8111297995)
+2025-06-18 15:43:55,290 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:43:55,291 - aiogram.dispatcher - WARNING - Sleep for 5.018217 seconds and try again... (tryings = 11, bot id = 8111297995)
+2025-06-18 15:44:05,602 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:44:05,603 - aiogram.dispatcher - WARNING - Sleep for 5.109113 seconds and try again... (tryings = 12, bot id = 8111297995)
+2025-06-18 15:44:15,947 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:44:15,947 - aiogram.dispatcher - WARNING - Sleep for 5.202777 seconds and try again... (tryings = 13, bot id = 8111297995)
+2025-06-18 15:44:16,993 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:44:17,240 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:44:17,242 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:44:20,509 - BusinessBot - INFO - ==================================================
+2025-06-18 15:44:20,510 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:44:20,510 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:44:20,511 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:44:20,511 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:44:20,512 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:44:20,512 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:44:20,746 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:44:20,747 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:44:20,747 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:44:20,747 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:44:20,828 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:44:20,829 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:44:20,830 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:44:20,830 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:44:20,831 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:44:25,922 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:44:25,922 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111297995)
+2025-06-18 15:44:35,095 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:44:35,096 - aiogram.dispatcher - WARNING - Sleep for 1.349126 seconds and try again... (tryings = 1, bot id = 8111297995)
+2025-06-18 15:44:44,796 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:44:44,796 - aiogram.dispatcher - WARNING - Sleep for 1.646916 seconds and try again... (tryings = 2, bot id = 8111297995)
+2025-06-18 15:44:54,862 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:44:54,862 - aiogram.dispatcher - WARNING - Sleep for 2.158691 seconds and try again... (tryings = 3, bot id = 8111297995)
+2025-06-18 15:45:04,991 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:45:04,991 - aiogram.dispatcher - WARNING - Sleep for 2.872914 seconds and try again... (tryings = 4, bot id = 8111297995)
+2025-06-18 15:45:15,976 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:45:15,977 - aiogram.dispatcher - WARNING - Sleep for 3.692779 seconds and try again... (tryings = 5, bot id = 8111297995)
+2025-06-18 15:45:19,875 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:45:20,127 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:45:20,129 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:45:25,053 - BusinessBot - INFO - ==================================================
+2025-06-18 15:45:25,053 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:45:25,054 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:45:25,054 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:45:25,054 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:45:25,055 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:45:25,055 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:45:25,310 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:45:25,311 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:45:25,311 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:45:25,311 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:45:25,399 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:45:25,399 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:45:25,400 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:45:25,400 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:45:25,401 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:45:33,795 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:45:33,795 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111297995)
+2025-06-18 15:45:43,219 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:45:43,220 - aiogram.dispatcher - WARNING - Sleep for 1.414671 seconds and try again... (tryings = 1, bot id = 8111297995)
+2025-06-18 15:45:52,856 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:45:52,856 - aiogram.dispatcher - WARNING - Sleep for 1.757955 seconds and try again... (tryings = 2, bot id = 8111297995)
+2025-06-18 15:46:02,909 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:46:02,910 - aiogram.dispatcher - WARNING - Sleep for 2.206974 seconds and try again... (tryings = 3, bot id = 8111297995)
+2025-06-18 15:46:13,453 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:46:13,454 - aiogram.dispatcher - WARNING - Sleep for 2.770971 seconds and try again... (tryings = 4, bot id = 8111297995)
+2025-06-18 15:46:24,414 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:46:24,414 - aiogram.dispatcher - WARNING - Sleep for 3.770935 seconds and try again... (tryings = 5, bot id = 8111297995)
+2025-06-18 15:46:26,382 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:46:26,629 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:46:26,632 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:46:29,738 - BusinessBot - INFO - ==================================================
+2025-06-18 15:46:29,739 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:46:29,739 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:46:29,739 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:46:29,739 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:46:29,739 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:46:29,740 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:46:29,982 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:46:29,982 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:46:29,982 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:46:29,984 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:46:30,063 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:46:30,063 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:46:30,064 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:46:30,064 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:46:30,064 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:46:35,224 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 15:46:35,225 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111297995)
+2025-06-18 15:46:37,401 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:46:37,653 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:46:37,655 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:46:49,644 - BusinessBot - INFO - ==================================================
+2025-06-18 15:46:49,644 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:46:49,645 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:46:49,645 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:46:49,645 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:46:49,645 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:46:49,645 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:46:49,896 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:46:49,897 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:46:49,898 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:46:49,898 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:46:49,993 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:46:49,993 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:46:49,995 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:46:49,996 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:46:49,996 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:48:45,109 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:48:45,361 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:48:45,363 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:48:48,545 - BusinessBot - INFO - ==================================================
+2025-06-18 15:48:48,545 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:48:48,545 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:48:48,547 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:48:48,547 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:48:48,547 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:48:48,547 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:48:48,782 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:48:48,782 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:48:48,783 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:48:48,783 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:48:48,858 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:48:48,858 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:48:48,860 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:48:48,861 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:48:48,862 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:50:09,311 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:50:09,453 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2025-06-18 15:50:09,456 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111297995)
+2025-06-18 15:50:09,552 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:50:09,556 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:50:13,071 - BusinessBot - INFO - ==================================================
+2025-06-18 15:50:13,071 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:50:13,071 - BusinessBot - INFO - [CONFIG] Токен: 81112979...Zh9UgD-Y
+2025-06-18 15:50:13,071 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:50:13,072 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:50:13,072 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:50:13,072 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:50:13,311 - BusinessBot - INFO - [BOT] Информация о боте: JellyGive (@JellybeanGiveawayBot)
+2025-06-18 15:50:13,311 - BusinessBot - INFO - [BOT] ID бота: 8111297995
+2025-06-18 15:50:13,312 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:50:13,312 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:50:13,389 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:50:13,389 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:50:13,389 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:50:13,390 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:50:13,390 - aiogram.dispatcher - INFO - Run polling for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:50:49,749 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 15:50:50,001 - aiogram.dispatcher - INFO - Polling stopped for bot @JellybeanGiveawayBot id=8111297995 - 'JellyGive'
+2025-06-18 15:50:50,003 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 15:50:53,810 - BusinessBot - INFO - ==================================================
+2025-06-18 15:50:53,810 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 15:50:53,811 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-18 15:50:53,811 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 15:50:53,811 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 15:50:53,811 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 15:50:53,811 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 15:50:54,050 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-18 15:50:54,050 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-18 15:50:54,051 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 15:50:54,051 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 15:50:54,125 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 15:50:54,125 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 15:50:54,127 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 15:50:54,128 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 15:50:54,129 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-18 15:51:08,996 - BusinessBot - INFO - Получено обновление типа: business_connection
+2025-06-18 15:51:08,998 - BusinessBot - INFO - Обрабатываю бизнес-подключение через хендлер: 95OymSo3mEr1EAAAfUNPaaiarXo
+2025-06-18 15:51:08,999 - BusinessBot - INFO - Бизнес-подключение: ID=95OymSo3mEr1EAAAfUNPaaiarXo, пользователь=1083294848, чат=1083294848
+2025-06-18 15:51:09,724 - BusinessBot - INFO - [CONNECT] doraemon (1083294848) подключен — ключ V2Ys8Gg1CCcIlXgnl080
+2025-06-18 15:51:09,854 - BusinessBot - INFO - Сообщение о подключении отправлено в чат 1083294848
+2025-06-18 15:51:09,854 - aiogram.event - INFO - Update id=702612705 is handled. Duration 860 ms by bot id=7576712685
+2025-06-18 15:51:26,143 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:51:26,144 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: ...
+2025-06-18 15:51:26,145 - aiogram.event - INFO - Update id=702612706 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:51:27,613 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:51:27,613 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: вооо...
+2025-06-18 15:51:27,614 - aiogram.event - INFO - Update id=702612707 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:51:31,591 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:51:31,592 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: терь список есть...
+2025-06-18 15:51:31,592 - aiogram.event - INFO - Update id=702612708 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:51:54,625 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:51:54,626 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: Ничоси...
+2025-06-18 15:51:54,626 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-18 15:51:54,627 - aiogram.event - INFO - Update id=702612709 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:51:59,585 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:51:59,586 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: доооооо...
+2025-06-18 15:51:59,587 - aiogram.event - INFO - Update id=702612710 is handled. Duration 14 ms by bot id=7576712685
+2025-06-18 15:52:00,128 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:52:00,129 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: Выводи...
+2025-06-18 15:52:00,130 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-18 15:52:00,130 - aiogram.event - INFO - Update id=702612711 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:52:04,129 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:52:04,130 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: скоро подключу...
+2025-06-18 15:52:04,130 - aiogram.event - INFO - Update id=702612712 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:52:25,401 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:52:25,401 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: Какой то мамонтенок повелся и останется без микроф...
+2025-06-18 15:52:25,401 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-18 15:52:25,401 - aiogram.event - INFO - Update id=702612713 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:52:29,720 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:52:29,722 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 5457686665: ...
+2025-06-18 15:52:29,723 - BusinessBot - INFO - [SKIP] Пользователь 5457686665 не подключен
+2025-06-18 15:52:29,724 - aiogram.event - INFO - Update id=702612714 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:52:31,776 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:52:31,777 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1083294848: (((...
+2025-06-18 15:52:31,778 - aiogram.event - INFO - Update id=702612715 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:55:32,942 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:55:32,943 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1084633927: ...
+2025-06-18 15:55:32,943 - BusinessBot - INFO - [SKIP] Пользователь 1084633927 не подключен
+2025-06-18 15:55:32,944 - aiogram.event - INFO - Update id=702612716 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 15:55:44,960 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 15:55:44,961 - BusinessBot - INFO - Обрабатываю бизнес-сообщение от 1084633927: ебать я заорал...
+2025-06-18 15:55:44,961 - BusinessBot - INFO - [SKIP] Пользователь 1084633927 не подключен
+2025-06-18 15:55:44,961 - aiogram.event - INFO - Update id=702612717 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 16:02:19,744 - BusinessBot - INFO - Получено обновление типа: business_message
+2025-06-18 16:02:19,755 - aiogram.event - INFO - Update id=702612718 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 16:02:42,490 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 16:02:42,752 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-18 16:02:42,756 - BusinessBot - INFO - Бот остановлен пользователем.
+2025-06-18 16:02:45,737 - BusinessBot - INFO - ==================================================
+2025-06-18 16:02:45,738 - BusinessBot - INFO - [BOT] Запуск бизнес-бота...
+2025-06-18 16:02:45,738 - BusinessBot - INFO - [CONFIG] Токен: 75767126...k9pe6LyQ
+2025-06-18 16:02:45,738 - BusinessBot - INFO - [CONFIG] Админ ID: 7442982117
+2025-06-18 16:02:45,738 - BusinessBot - INFO - [CONFIG] Лог-канал ID: -1002823857809
+2025-06-18 16:02:45,738 - BusinessBot - INFO - [BOT] Кэш подключений очищен
+2025-06-18 16:02:45,738 - BusinessBot - INFO - [VERSION] aiogram version: 3.20.0.post0
+2025-06-18 16:02:45,968 - BusinessBot - INFO - [BOT] Информация о боте: testagraq (@brutorobot)
+2025-06-18 16:02:45,968 - BusinessBot - INFO - [BOT] ID бота: 7576712685
+2025-06-18 16:02:45,968 - BusinessBot - INFO - [BOT] Доступные бизнес-методы: delete_business_messages, get_business_account_gifts, get_business_account_star_balance, get_business_connection, read_business_message, remove_business_account_profile_photo, set_business_account_bio, set_business_account_gift_settings, set_business_account_name, set_business_account_profile_photo, set_business_account_username, transfer_business_account_stars
+2025-06-18 16:02:45,968 - BusinessBot - INFO - [CONFIG] Разрешенные обновления: ['message', 'business_connection', 'business_message']
+2025-06-18 16:02:46,039 - BusinessBot - INFO - [BOT] Вебхук удален
+2025-06-18 16:02:46,040 - BusinessBot - INFO - [BOT] Запущена задача очистки кэша подключений
+2025-06-18 16:02:46,040 - BusinessBot - INFO - [BOT] Запуск поллинга...
+2025-06-18 16:02:46,040 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 16:02:46,040 - aiogram.dispatcher - INFO - Run polling for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-18 16:03:03,629 - BusinessBot - INFO - Получено обновление типа: business_connection
+2025-06-18 16:03:03,630 - BusinessBot - INFO - Обрабатываю бизнес-подключение через хендлер: 95OymSo3mEr1EAAAfUNPaaiarXo
+2025-06-18 16:03:03,630 - BusinessBot - INFO - Бизнес-подключение: ID=95OymSo3mEr1EAAAfUNPaaiarXo, пользователь=1083294848, чат=1083294848
+2025-06-18 16:03:04,326 - BusinessBot - INFO - [CONNECT] doraemon (1083294848) подключен — ключ QOJrpKRqn547eT9W5d9q
+2025-06-18 16:03:04,516 - BusinessBot - INFO - Сообщение о подключении отправлено в чат 1083294848
+2025-06-18 16:03:04,517 - aiogram.event - INFO - Update id=702612719 is handled. Duration 889 ms by bot id=7576712685
+2025-06-18 16:03:23,451 - BusinessBot - INFO - Получено обновление типа: message
+2025-06-18 16:03:23,452 - BusinessBot - INFO - Получено обычное сообщение от 1083294848
+2025-06-18 16:03:23,452 - aiogram.event - INFO - Update id=702612720 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 16:04:13,301 - BusinessBot - INFO - Получено обновление типа: message
+2025-06-18 16:04:13,301 - BusinessBot - INFO - Получено обычное сообщение от 1083294848
+2025-06-18 16:04:13,302 - aiogram.event - INFO - Update id=702612721 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 16:04:15,995 - BusinessBot - INFO - Получено обновление типа: message
+2025-06-18 16:04:15,996 - BusinessBot - INFO - Получено обычное сообщение от 1083294848
+2025-06-18 16:04:15,998 - aiogram.event - INFO - Update id=702612722 is handled. Duration 0 ms by bot id=7576712685
+2025-06-18 16:08:24,727 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 16:08:24,976 - aiogram.dispatcher - INFO - Polling stopped for bot @brutorobot id=7576712685 - 'testagraq'
+2025-06-18 16:08:24,977 - BusinessBot - INFO - Бот остановлен пользователем.

@@ -1,0 +1,360 @@
+import i18n from 'i18next';
+import { initReactI18next } from 'react-i18next';
+
+const resources = {
+  ru: {
+    translation: {
+      nav: {
+        home: 'Главная',
+        topics: 'Темы',
+        blog: 'Блог',
+        onboarding: 'О платформе',
+      },
+      header: {
+        logo: 'GO-DOJO',
+        logoJp: 'Go 道場',
+      },
+      theme: {
+        light: 'Светлая тема',
+        dark: 'Темная тема',
+      },
+      language: {
+        ru: 'Русский',
+        en: 'English',
+      },
+      onboarding: {
+        hero: {
+          title: 'Путь мастера Go',
+          subtitle: 'Изучай язык программирования Go через практику, дисциплину и настоящий опыт',
+          cta: 'Начать обучение',
+        },
+        philosophy: {
+          title: 'Философия додзё',
+          description: 'Как в настоящем додзё, мы верим, что настоящее мастерство приходит через постоянную практику и преодоление трудностей. Наши уроки построены на реальных задачах, которые научат тебя думать как Go-разработчик.',
+        },
+        skills: {
+          title: 'Чему ты научишься',
+          skill1: {
+            title: 'Основы языка',
+            description: 'Типы данных, переменные, функции и структуры Go',
+          },
+          skill2: {
+            title: 'Конкурентность',
+            description: 'Горутины, каналы и паттерны параллельного программирования',
+          },
+          skill3: {
+            title: 'Реальные проекты',
+            description: 'Веб-серверы, API и микросервисы на Go',
+          },
+        },
+        approach: {
+          title: 'Уникальный подход',
+          description: 'Каждый урок создан через кровь и пот. Мы не просто показываем код — мы объясняем почему. Авторский подход, выстраданный на реальных проектах.',
+        },
+        path: {
+          title: 'Твой путь обучения',
+        },
+        cta: {
+          title: 'Готов стать мастером Go?',
+          description: 'Присоединяйся к додзё и начни свой путь уже сегодня',
+          button: 'Начать обучение',
+        },
+      },
+      topics: {
+        title: 'Темы обучения',
+        subtitle: 'Выбери тему и начни изучение',
+        lessonsCount: 'уроков',
+        noTopics: 'Пока нет доступных тем',
+        startLearning: 'Начать изучение',
+      },
+      lesson: {
+        prevLesson: 'Предыдущий урок',
+        nextLesson: 'Следующий урок',
+        backToTopic: 'К списку уроков',
+        noContent: 'Контент урока скоро появится...',
+      },
+      blog: {
+        title: 'Блог',
+        subtitle: 'Новости, обновления и советы по Go',
+        noPosts: 'Посты скоро появятся...',
+        readMore: 'Читать далее',
+        backToBlog: 'К записям блога',
+      },
+      admin: {
+        title: 'Панель управления',
+        login: {
+          title: 'Вход в админ-панель',
+          password: 'Пароль',
+          submit: 'Войти',
+          error: 'Неверный пароль',
+        },
+        sidebar: {
+          stats: 'Статистика',
+          topics: 'Темы',
+          lessons: 'Уроки',
+          posts: 'Блог',
+          createTopic: 'Создать тему',
+          createLesson: 'Создать урок',
+          createPost: 'Новый пост',
+        },
+        stats: {
+          title: 'Статистика главной страницы',
+          uniqueVisitors: 'Уникальные посетители',
+          uniqueVisitorsDescription: 'Количество уникальных IP адресов на главной странице',
+          totalVisits: 'Всего посещений',
+          totalVisitsDescription: 'Общее количество посещений главной страницы',
+        },
+        topics: {
+          title: 'Управление темами',
+          create: 'Создать тему',
+          edit: 'Редактировать',
+          delete: 'Удалить',
+          titleRu: 'Название (RU)',
+          titleEn: 'Название (EN)',
+          descriptionRu: 'Описание (RU)',
+          descriptionEn: 'Описание (EN)',
+          order: 'Порядок',
+          icon: 'Иконка',
+          save: 'Сохранить',
+          cancel: 'Отмена',
+        },
+        lessons: {
+          title: 'Управление уроками',
+          create: 'Создать урок',
+          edit: 'Редактировать',
+          delete: 'Удалить',
+          selectTopic: 'Выберите тему',
+          titleRu: 'Название (RU)',
+          titleEn: 'Название (EN)',
+          contentRu: 'Контент (RU)',
+          contentEn: 'Контент (EN)',
+          order: 'Порядок',
+          save: 'Сохранить',
+          cancel: 'Отмена',
+        },
+        editor: {
+          bold: 'Жирный',
+          italic: 'Курсив',
+          underline: 'Подчеркнутый',
+          heading1: 'Заголовок 1',
+          heading2: 'Заголовок 2',
+          heading3: 'Заголовок 3',
+          link: 'Ссылка',
+          image: 'Изображение',
+          color: 'Цвет текста',
+        },
+        posts: {
+          title: 'Управление блогом',
+          create: 'Создать пост',
+          edit: 'Редактировать',
+          delete: 'Удалить',
+          titleRu: 'Название (RU)',
+          titleEn: 'Название (EN)',
+          contentRu: 'Контент (RU)',
+          contentEn: 'Контент (EN)',
+          order: 'Порядок',
+          save: 'Сохранить',
+          cancel: 'Отмена',
+        },
+        success: {
+          topicCreated: 'Тема успешно создана',
+          topicUpdated: 'Тема успешно обновлена',
+          topicDeleted: 'Тема удалена',
+          lessonCreated: 'Урок успешно создан',
+          lessonUpdated: 'Урок успешно обновлен',
+          lessonDeleted: 'Урок удален',
+          postCreated: 'Пост успешно создан',
+          postUpdated: 'Пост успешно обновлен',
+          postDeleted: 'Пост удален',
+        },
+      },
+      footer: {
+        copyright: '© 2025 GO-DOJO. Путь к мастерству Go.',
+      },
+    },
+  },
+  en: {
+    translation: {
+      nav: {
+        home: 'Home',
+        topics: 'Topics',
+        blog: 'Blog',
+        onboarding: 'About',
+      },
+      header: {
+        logo: 'GO-DOJO',
+        logoJp: 'Go 道場',
+      },
+      theme: {
+        light: 'Light theme',
+        dark: 'Dark theme',
+      },
+      language: {
+        ru: 'Русский',
+        en: 'English',
+      },
+      onboarding: {
+        hero: {
+          title: 'The Path of Go Master',
+          subtitle: 'Learn Go programming through practice, discipline, and real experience',
+          cta: 'Start Learning',
+        },
+        philosophy: {
+          title: 'Dojo Philosophy',
+          description: 'Like in a real dojo, we believe true mastery comes through constant practice and overcoming challenges. Our lessons are built on real-world tasks that teach you to think like a Go developer.',
+        },
+        skills: {
+          title: 'What You Will Learn',
+          skill1: {
+            title: 'Language Basics',
+            description: 'Data types, variables, functions, and Go structures',
+          },
+          skill2: {
+            title: 'Concurrency',
+            description: 'Goroutines, channels, and parallel programming patterns',
+          },
+          skill3: {
+            title: 'Real Projects',
+            description: 'Web servers, APIs, and microservices in Go',
+          },
+        },
+        approach: {
+          title: 'Unique Approach',
+          description: 'Every lesson is created through blood and sweat. We don\'t just show code — we explain why. An author\'s approach, forged through real projects.',
+        },
+        path: {
+          title: 'Your Learning Path',
+        },
+        cta: {
+          title: 'Ready to Become a Go Master?',
+          description: 'Join the dojo and start your journey today',
+          button: 'Start Learning',
+        },
+      },
+      topics: {
+        title: 'Learning Topics',
+        subtitle: 'Choose a topic and start learning',
+        lessonsCount: 'lessons',
+        noTopics: 'No topics available yet',
+        startLearning: 'Start Learning',
+      },
+      lesson: {
+        prevLesson: 'Previous Lesson',
+        nextLesson: 'Next Lesson',
+        backToTopic: 'Back to Lessons',
+        noContent: 'Lesson content coming soon...',
+      },
+      blog: {
+        title: 'Blog',
+        subtitle: 'News, updates, and tips about Go',
+        noPosts: 'Posts coming soon...',
+        readMore: 'Read More',
+        backToBlog: 'Back to Posts',
+      },
+      admin: {
+        title: 'Admin Panel',
+        login: {
+          title: 'Admin Login',
+          password: 'Password',
+          submit: 'Login',
+          error: 'Invalid password',
+        },
+        sidebar: {
+          stats: 'Analytics',
+          topics: 'Topics',
+          lessons: 'Lessons',
+          posts: 'Blog',
+          createTopic: 'Create Topic',
+          createLesson: 'Create Lesson',
+          createPost: 'New Post',
+        },
+        stats: {
+          title: 'Homepage Statistics',
+          uniqueVisitors: 'Unique Visitors',
+          uniqueVisitorsDescription: 'Number of unique IP addresses on homepage',
+          totalVisits: 'Total Visits',
+          totalVisitsDescription: 'Total number of visits to homepage',
+        },
+        topics: {
+          title: 'Manage Topics',
+          create: 'Create Topic',
+          edit: 'Edit',
+          delete: 'Delete',
+          titleRu: 'Title (RU)',
+          titleEn: 'Title (EN)',
+          descriptionRu: 'Description (RU)',
+          descriptionEn: 'Description (EN)',
+          order: 'Order',
+          icon: 'Icon',
+          save: 'Save',
+          cancel: 'Cancel',
+        },
+        lessons: {
+          title: 'Manage Lessons',
+          create: 'Create Lesson',
+          edit: 'Edit',
+          delete: 'Delete',
+          selectTopic: 'Select Topic',
+          titleRu: 'Title (RU)',
+          titleEn: 'Title (EN)',
+          contentRu: 'Content (RU)',
+          contentEn: 'Content (EN)',
+          order: 'Order',
+          save: 'Save',
+          cancel: 'Cancel',
+        },
+        editor: {
+          bold: 'Bold',
+          italic: 'Italic',
+          underline: 'Underline',
+          heading1: 'Heading 1',
+          heading2: 'Heading 2',
+          heading3: 'Heading 3',
+          link: 'Link',
+          image: 'Image',
+          color: 'Text Color',
+        },
+        posts: {
+          title: 'Manage Blog',
+          create: 'Create Post',
+          edit: 'Edit',
+          delete: 'Delete',
+          titleRu: 'Title (RU)',
+          titleEn: 'Title (EN)',
+          contentRu: 'Content (RU)',
+          contentEn: 'Content (EN)',
+          order: 'Order',
+          save: 'Save',
+          cancel: 'Cancel',
+        },
+        success: {
+          topicCreated: 'Topic created successfully',
+          topicUpdated: 'Topic updated successfully',
+          topicDeleted: 'Topic deleted',
+          lessonCreated: 'Lesson created successfully',
+          lessonUpdated: 'Lesson updated successfully',
+          lessonDeleted: 'Lesson deleted',
+          postCreated: 'Post created successfully',
+          postUpdated: 'Post updated successfully',
+          postDeleted: 'Post deleted',
+        },
+      },
+      footer: {
+        copyright: '© 2025 GO-DOJO. Path to Go mastery.',
+      },
+    },
+  },
+};
+
+i18n
+  .use(initReactI18next)
+  .init({
+    resources,
+    lng: localStorage.getItem('language') || 'ru',
+    fallbackLng: 'ru',
+    interpolation: {
+      escapeValue: false,
+    },
+  });
+
+export default i18n;
